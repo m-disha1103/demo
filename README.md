@@ -1,3 +1,4 @@
 # AI-powered-store-management-app
 my first repository
-author - Disha Malviya
+<br>
+author - Disha malviya
